@@ -1,0 +1,18 @@
+<resources>
+    <string name="API_KEY" translatable="false">AIzaSyBbzm_2MCz0Ybmy_NkOrg00eozwdu9aNFQ</string>
+    <string name="app_name">dTracker</string>
+    <string name="confirm_tracking_message">Do you agree that your location will be tracking at the background?</string>
+    <string name="confirm_tracking_title">Confirm tracking</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="show_distance">Show distance</string>
+    <string name="show_location">Show location</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="location_request_error">Location settings are inadequate, and cannot be \" +                                         \"fixed here. Fix in Settings.</string>
+    <string name="your_location">Your location</string>
+    <string name="distance">Distance</string>
+    <string name="location">Location</string>
+</resources>
